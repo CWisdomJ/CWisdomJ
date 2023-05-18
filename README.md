@@ -6,10 +6,10 @@
 <br> You can find me in the following ways:
 
 + My CSDN: [My CSDN](https://blog.csdn.net/qq_60955261)
-+ My Gitee:[My Gitee](https://gitee.com/cwisdomj)
----
++ My Gitee: [My Gitee](https://gitee.com/cwisdomj)
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CWisdomJ&layout=compact)](https://github.com/CWisdomJ/github-readme-stats)
----
+<hr>
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=CWisdomJ&show_icons=true&theme=tokyonight)
 
 
