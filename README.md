@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi，感谢您在茫茫人海中来到我的主页👏🎉
 
-<!--
-**CWisdomJ/CWisdomJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The harder you work, the luckier you get, the more you'll find the answer you want.
 
-Here are some ideas to get you started:
+You can find me in the following ways:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ My CSDN: [My CSDN](https://blog.csdn.net/qq_60955261)
++ My Gitee:[My Gitee](https://gitee.com/cwisdomj)
+
+```text
+![Visitor Count](https://profile-counter.glitch.me/CWisdomJ/count.svg)
+```
+
+```text
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CWisdomJ&layout=compact)](https://github.com/CWisdomJ/github-readme-stats)
+```
+
+```text
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=CWisdomJ&show_icons=true&theme=tokyonight)
+```
+
